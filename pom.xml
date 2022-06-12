@@ -11,6 +11,7 @@
     <modules>
         <module>excel-utils</module>
         <module>validation-utils</module>
+        <module>quartz</module>
     </modules>
 
     <properties>
